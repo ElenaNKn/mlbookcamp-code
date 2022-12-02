@@ -18,6 +18,7 @@
   * [Video](https://www.youtube.com/watch?v=J0Ht4V9mIRI&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 * [Office hours](https://www.youtube.com/watch?v=VojpszKmKw8&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 
+
 **[2. Machine Learning for Regression](02-regression/)**
 
 * [Module materials](../../02-regression)
@@ -28,7 +29,7 @@
 * [Office hours](https://www.youtube.com/watch?v=UYWy8ETnKt8&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 
 
-**3. Machine Learning for Classification**
+[**3. Machine Learning for Classification**](03-classification/)
 
 * [Module materials](../../03-classification)
 * [Homework](03-classification/homework.md)
@@ -37,7 +38,8 @@
   * [Video](https://www.youtube.com/watch?v=o--DqcyRLEM&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 * [Office hours](https://www.youtube.com/watch?v=WYOahoRGvZc&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 
-**4. Evaluation Metrics for Classification**
+
+[**4. Evaluation Metrics for Classification**](04-evaluation/)
 
 * [Module materials](../../04-evaluation)
 * [Homework](04-evaluation/homework.md)
@@ -46,45 +48,60 @@
   * [Video](https://youtu.be/82TYlOvKwfk)
 * [Office hours](https://www.youtube.com/watch?v=glwPRlEcYgU&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 
-**5. Deploying Machine Learning Models**
+
+[**5. Deploying Machine Learning Models**](05-deployment/)
 
 * [Module materials](../../05-deployment)
 * [Homework](05-deployment/homework.md)
-* Homework solution - to be added
+* Homework solution:
+  * [Code](05-deployment/homework/)
+  * [Video](https://youtu.be/LZFKhcG6ygc)
 * [Office hours](https://www.youtube.com/watch?v=4JMd6ovNuwk&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 
-**6. Decision Trees and Ensemble Learning**
+
+[**6. Decision Trees and Ensemble Learning**](06-trees/)
 
 * [Module materials](../../06-trees)
 * [Homework](06-trees/homework.md)
-* Homework solution - to be added
-* Office hours - to be added
+* Homework solution:
+  * [Notebook](06-trees/homework_6.ipynb)
+* [Office hours](https://www.youtube.com/watch?v=DOWSa2kR8-I&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 
-**7. Production-Ready Machine Learning (Bento ML)**
+
+[**7. Production-Ready Machine Learning (Bento ML)**](07-bento-production/)
 
 * [Module materials](../../07-bentoml-production/)
 * [Homework](07-bento-production/homework.md)
-* Homework solution - to be added
-* Office hours - to be added
+* Homework solution:
+  * [Video](https://www.youtube.com/watch?v=BknNxERM2fk&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
+* [Office hours](https://www.youtube.com/watch?v=yKK7RgXlNdY&list=PL3MmuxUbc_hL5QBBEyKUXKuTNx-3cTpKs)
 
-**Midterm Project**
 
-* TBA
+[**Midterm Project**](projects.md#midterm-project)
 
-**8. Neural Networks and Deep Learning**
+* More information: [projects.md](projects.md#midterm-project)
+
+
+[**8. Neural Networks and Deep Learning**](08-deep-learning/)
 
 * [Module materials](../../08-deep-learning)
-* TBA
+* [Homework](08-deep-learning/homework.md)
+* Homework solution:
+  * [Notebook](08-deep-learning/homework_8.ipynb)
+* [Saturn Cloud: Notebooks with GPUs](https://bit.ly/saturn-mlzoomcamp) 
+
 
 **9. Serverless Deep Learning**
 
 * [Module materials](../../09-serverless)
-* TBA
+* [Homework](09-serverless/homework.md)
+
 
 **10. Kubernetes and TensorFlow Serving**
 
 * [Module materials](../../10-kubernetes)
-* TBA
+* [Homework](10-kubernetes/homework.md)
+
 
 **11. KServe (optional)**
 
@@ -95,14 +112,20 @@
 
 * TBA
 
+
 **Article**
 
 * TBA
+
 
 **Third project (optional)**
 
 * TBA
 
+
+**[Image classification competition](https://www.kaggle.com/competitions/kitchenware-classification/)**
+
+If you liked our deep learning module, join us to build a model for classifying cups, glasses, plates, spoons, forks and knives.
 
 
 ## Supporters and partners
